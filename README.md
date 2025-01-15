@@ -13,5 +13,6 @@ Actualmente, los consumidores se enfrentan a una avalancha de productos disponib
 Este problema
 En este contexto, surge la necesidad de una aplicación digital que actúe como un asistente personal para el cuidado del cabello, brindando recomendaciones personalizadas basadas en las características del usuario, así como reseñas.
 # ANALISIS DE REQUERIMIENTO
+La aplicación busca convertirse en una herramienta única para recomendar productos personalizados para el cuidado del cabello, permitiendo a los usuarios descubrir, comparar, y valorar productos específicos según sus necesidades capilares. 
 # MODELO RELACIONAL
 ![image](https://github.com/user-attachments/assets/bfba3634-780f-4fff-b356-52cc39afb203)
