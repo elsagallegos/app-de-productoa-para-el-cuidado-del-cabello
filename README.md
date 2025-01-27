@@ -67,3 +67,9 @@ La evaluación personalizada del cabello y las recomendaciones de productos adap
 
 # MODELO RELACIONAL
 ![image](https://github.com/user-attachments/assets/bfba3634-780f-4fff-b356-52cc39afb203)
+
+# Modelo relacional en DJANGO
+
+# TABLAS PRINCIPALES 
+
+# Diseño del sistema
