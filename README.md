@@ -120,6 +120,6 @@ Almacena los productos incluidos en cada pedido, junto con su cantidad y precio 
 - Relaciona los pedidos con los productos específicos adquiridos.
 # MODELO FISICO 
 se presentará el código SQL necesario para la creación de estas tablas en MySQL, estableciendo sus claves primarias, relaciones y restricciones para garantizar la integridad de los datos.
-
+(imagen del codigo de mysql)
 Este script define la estructura de la base de datos, asegurando que las tablas estén correctamente relacionadas y que los datos ingresados cumplan con los criterios establecidos.
 # DISEÑO DEL SISTEMA
