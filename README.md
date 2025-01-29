@@ -67,7 +67,8 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 ![image](https://github.com/user-attachments/assets/bfba3634-780f-4fff-b356-52cc39afb203)
 
 # MODELO RELACIONAL EN DJANGO
-
+ 
 # TABLAS PRINCIPALES 
-
+ 
 # DISEÑO DEL SISTEMA
+ 
