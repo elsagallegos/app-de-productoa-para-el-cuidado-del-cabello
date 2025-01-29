@@ -67,3 +67,4 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
  
 # MODELO FISICO 
  
+# DISEÑO DEL SISTEMA
