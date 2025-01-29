@@ -64,7 +64,60 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 ![image](https://github.com/user-attachments/assets/bfba3634-780f-4fff-b356-52cc39afb203)
 
 # TABLAS PRINCIPALES 
- 
+ **1. USUARIO**
+
+**Propósito:** Esta tabla almacena la información de los usuarios registrados en la aplicación, permitiendo gestionar autenticación y acceso.
+
+**Relevancia:**
+- Permite a los usuarios iniciar sesión con sus credenciales.
+- Almacena datos básicos como nombre, apellido y correo electrónico.
+- Garantiza la seguridad de los datos mediante una contraseña cifrada.
+------------------------------------------------------------------------------------------------------------------------------
+**2. CLIENTES**
+
+**Propósito:** Registra la información de los clientes que realizan compras en la aplicación.
+
+**Relevancia:**
+- Almacena datos personales como nombre, correo, dirección y teléfono.
+- Facilita la gestión de pedidos y envíos.
+- Puede ser utilizado para brindar soporte al cliente y ofrecer promociones personalizadas.
+------------------------------------------------------------------------------------------------------------------------------
+**3. PRODUCTOS**
+
+**Propósito:** Esta tabla contiene la información de los productos disponibles en la tienda, organizados por categorías.
+
+**Relevancia:**
+- Permite listar los productos con sus características (nombre, descripción, precio).
+- Relaciona cada producto con una categoría específica.
+- Es clave para la funcionalidad de recomendación personalizada basada en necesidades capilares.
+------------------------------------------------------------------------------------------------------------------------------
+**4. CATEGORIAS**
+
+**Propósito:** Clasifica los productos en distintas categorías para facilitar la navegación y búsqueda.
+
+**Relevancia:**
+- Permite agrupar productos similares (ej. champús, acondicionadores, tratamientos).
+- Facilita la organización del catálogo y la experiencia del usuario.
+- Mejora la gestión de inventario dentro del sistema.
+------------------------------------------------------------------------------------------------------------------------------
+**5. PEDIDOS**
+
+**Propósito:** Registra las órdenes de compra realizadas por los clientes dentro de la aplicación.
+
+**Relevancia:**
+- Permite hacer seguimiento de los pedidos en función de su estado (pendiente, enviado, entregado).
+- Relaciona los pedidos con los clientes que los realizaron.
+- Facilita la gestión logística y control de inventario.
+------------------------------------------------------------------------------------------------------------------------------
+**6. DETALLE_PEDIDOS**
+
+**Propósito:**
+Almacena los productos incluidos en cada pedido, junto con su cantidad y precio en el momento de la compra.
+
+**Relevancia:**
+- Permite conocer qué productos forman parte de cada pedido.
+- Ayuda en la facturación y cálculo de costos.
+- Relaciona los pedidos con los productos específicos adquiridos.
 # MODELO FISICO 
 se presentará el código SQL necesario para la creación de estas tablas en MySQL, estableciendo sus claves primarias, relaciones y restricciones para garantizar la integridad de los datos.
 
