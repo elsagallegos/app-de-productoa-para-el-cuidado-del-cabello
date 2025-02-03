@@ -125,3 +125,103 @@ se presentará el código SQL necesario para la creación de estas tablas en MyS
 Este script define la estructura de la base de datos, asegurando que las tablas estén correctamente relacionadas y que los datos ingresados cumplan con los criterios establecidos.
 [(link del codigo)](https://github.com/AdrianaCifuentes/codigolink/blob/main/README.md)
 # DISEÑO DEL SISTEMA
+¡Claro! Aquí te dejo un diseño del sistema siguiendo un enfoque similar, pero enfocado en una aplicación sobre productos de cuidado para el pelo.
+
+---
+
+## **Arquitectura General**
+
+El sistema está basado en el marco de trabajo Mysql y sigue el patrón de diseño Modelo-Vista-Controlador (MVC). Los componentes principales son:
+
+### **Modelo**
+El modelo se extiende para almacenar la información relevante sobre los productos de cuidado para el cabello, tales como:
+
+- **Nombre del Producto**
+- **Descripción**
+- **Ingredientes**
+- **Tipo de Producto (shampoo, acondicionador, tratamiento, etc.)**
+- **Imagen del Producto**
+- **Beneficios**
+- **Precio**
+  
+Esto permite persistir los datos en la base de datos y gestionarlos de manera eficiente.
+
+### **Vista**
+Se crea una vista dedicada para manejar la lógica de carga de productos, generación de páginas dinámicas y redirección. Además, se incluyen vistas para la página de inicio, detalles del producto, y la página de servicios.
+
+### **Plantillas (Templates)**
+Se utiliza el sistema de plantillas de mysql para renderizar dinámicamente las páginas de productos y actualizar la página de servicios.
+
+---
+
+## **Flujo de Trabajo del Usuario**
+
+### **Acceso al Formulario de Carga de Producto**
+Los usuarios registrados pueden acceder a un formulario donde pueden agregar información sobre los productos de cuidado para el cabello. El formulario permite ingresar:
+
+- **Nombre del producto**
+- **Descripción**
+- **Lista de ingredientes (uno por línea)**
+- **Tipo de producto (shampoo, acondicionador, etc.)**
+- **Imagen representativa (opcional)**
+- **Precio**
+
+### **Validación y Procesamiento de Datos**
+Cuando el formulario es enviado, el sistema valida los datos ingresados. Si todo es correcto:
+
+- Los datos se almacenan en la base de datos.
+- Se genera automáticamente una página HTML para el producto con un diseño visual consistente.
+
+### **Redirección Automática**
+Una vez que los datos se procesan correctamente, el sistema redirige al usuario a la nueva página de producto, donde puede ver la información del producto detallada.
+
+### **Actualización de la Página de Servicios**
+El nuevo producto aparece automáticamente en la sección de servicios mediante una tarjeta visual (card) que incluye:
+
+- El nombre del producto.
+- Una imagen representativa.
+- Un enlace directo a la página de detalles del producto.
+
+---
+
+## **Generación Automática de Páginas**
+
+### **Generación del Archivo HTML**
+El sistema utiliza un método en la vista para generar un archivo HTML dinámico para cada producto. Las características clave de este proceso son:
+
+- **Nombre del archivo dinámico:** El nombre del archivo HTML corresponde al nombre del producto en formato URL-friendly.
+- **Estructura del contenido:** La página se genera extendiendo la plantilla base de la aplicación (base.html) para garantizar la consistencia visual.
+  
+#### **Contenido dinámico:**
+- **Nombre del producto**
+- **Imagen vinculada desde el directorio estático**
+- **Descripción detallada**
+- **Ingredientes y beneficios generados a partir de los datos ingresados**
+- **Precio y tipo de producto**
+
+---
+
+## **Modificación de la Página de Servicios**
+
+### **Iteración Dinámica de Productos**
+En la plantilla `services.html`, se utiliza un bucle dinámico para recorrer y mostrar todos los productos disponibles. Esto se logra con:
+
+- **Carga de datos desde la base de datos:** Cada producto se representa como una tarjeta (card) con los datos relevantes.
+- **Estilo coherente:** Se reutilizan los estilos existentes para garantizar un diseño uniforme y atractivo.
+
+---
+
+## **Manejo de Errores**
+
+El sistema incluye validaciones y manejo de errores para asegurar una experiencia de usuario fluida:
+
+- **Validación de campos obligatorios en el formulario:** Se garantiza que todos los campos necesarios estén completos.
+- **Manejo de imágenes faltantes o con formatos no permitidos:** El sistema detecta imágenes no válidas y proporciona retroalimentación clara al usuario.
+- **Redirección a una página de error si ocurre un problema inesperado:** En caso de errores no previstos, el sistema dirige al usuario a una página de error con información relevante.
+
+---
+
+## **Tecnologías y Herramientas Utilizadas**
+
+- **HTML y CSS:** Para las plantillas y el diseño visual de las páginas.
+- **MySQL:** Base de datos para almacenar los productos.
