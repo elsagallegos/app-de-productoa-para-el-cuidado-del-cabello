@@ -123,10 +123,6 @@ se presentará el código SQL necesario para la creación de estas tablas en MyS
 [(Modelo físico)](https://github.com/elsagallegos/app-de-productoa-para-el-cuidado-del-cabello/blob/main/Modelo%20fisico/Tarea%20grupal)
 Este script define la estructura de la base de datos, asegurando que las tablas estén correctamente relacionadas y que los datos ingresados cumplan con los criterios establecidos.
 # DISEÑO DEL SISTEMA
-¡Claro! Aquí te dejo un diseño del sistema siguiendo un enfoque similar, pero enfocado en una aplicación sobre productos de cuidado para el pelo.
-
----
-
 ## **Arquitectura General**
 
 El sistema está basado en el marco de trabajo Mysql y sigue el patrón de diseño Modelo-Vista-Controlador (MVC). Los componentes principales son:
@@ -221,5 +217,4 @@ El sistema incluye validaciones y manejo de errores para asegurar una experienci
 
 ## **Tecnologías y Herramientas Utilizadas**
 
-- **HTML y CSS:** Para las plantillas y el diseño visual de las páginas.
 - **MySQL:** Base de datos para almacenar los productos.
