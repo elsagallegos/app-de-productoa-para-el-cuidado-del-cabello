@@ -121,9 +121,7 @@ Almacena los productos incluidos en cada pedido, junto con su cantidad y precio 
 # MODELO FISICO 
 se presentará el código SQL necesario para la creación de estas tablas en MySQL, estableciendo sus claves primarias, relaciones y restricciones para garantizar la integridad de los datos.
 [(Modelo físico)](https://github.com/elsagallegos/app-de-productoa-para-el-cuidado-del-cabello/blob/main/Modelo%20fisico/Tarea%20grupal)
-
 Este script define la estructura de la base de datos, asegurando que las tablas estén correctamente relacionadas y que los datos ingresados cumplan con los criterios establecidos.
-[(link del codigo)](https://github.com/AdrianaCifuentes/codigolink/blob/main/README.md)
 # DISEÑO DEL SISTEMA
 ¡Claro! Aquí te dejo un diseño del sistema siguiendo un enfoque similar, pero enfocado en una aplicación sobre productos de cuidado para el pelo.
 
