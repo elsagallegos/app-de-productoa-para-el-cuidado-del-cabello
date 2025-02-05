@@ -9,6 +9,7 @@ La creciente preocupación por el cuidado personal ha impulsado el interés en p
                                
 # PROPOSITO       
 El propósito de la app es ofrecer una variedad de productos especializados para el cuidado del cabello, brindando recomendaciones personalizadas según el tipo de cabello y las necesidades del usuario, para mejorar la salud y apariencia capilar.   
+
             
 # OBJETIVOS                   
              
