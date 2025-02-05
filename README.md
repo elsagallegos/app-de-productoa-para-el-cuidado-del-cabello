@@ -6,7 +6,7 @@ Repositorio de un app que vende productos para el cuidado del cabello
                     
 # INTRODUCCIÓN
 La creciente preocupación por el cuidado personal ha impulsado el interés en productos específicos que respondan a las necesidades únicas de cada individuo, especialmente en el ámbito del cuidado del cabello. En este contexto, surge la idea de desarrollar una aplicación innovadora que no solo facilite el descubrimiento de productos capilares, sino que también ofrezca recomendaciones personalizadas, permitiendo a los usuarios comparar, valorar y seleccionar opciones según sus requerimientos. Esta herramienta busca convertirse en un referente para quienes desean optimizar su rutina de cuidado capilar, combinando tecnología y personalización para mejorar la experiencia del usuario.     
-             
+                               
 # PROPOSITO       
 El propósito de la app es ofrecer una variedad de productos especializados para el cuidado del cabello, brindando recomendaciones personalizadas según el tipo de cabello y las necesidades del usuario, para mejorar la salud y apariencia capilar.   
             
