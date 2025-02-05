@@ -116,7 +116,7 @@ Almacena los productos incluidos en cada pedido, junto con su cantidad y precio 
 
 **Relevancia:**
 - Permite conocer qué productos forman parte de cada pedido.
-- Ayuda en la facturación y cálculo de costos.
+- Ayuda en la facturación y cálculo de costos. 
 - Relaciona los pedidos con los productos específicos adquiridos.
 # MODELO FISICO 
 se presentará el código SQL necesario para la creación de estas tablas en MySQL, estableciendo sus claves primarias, relaciones y restricciones para garantizar la integridad de los datos.
@@ -145,9 +145,9 @@ Se crea una vista dedicada para manejar la lógica de carga de productos, genera
 
 ### **Plantillas (Templates)**
 Se utiliza el sistema de plantillas de mysql para renderizar dinámicamente las páginas de productos y actualizar la página de servicios.
-
+ 
 ---
-
+ 
 ## **Flujo de Trabajo del Usuario**
 
 ### **Acceso al Formulario de Carga de Producto**
@@ -174,10 +174,10 @@ El nuevo producto aparece automáticamente en la sección de servicios mediante 
 
 - El nombre del producto.
 - Una imagen representativa.
-- Un enlace directo a la página de detalles del producto.
-
+- Un enlace directo a la página de detalles del producto. 
+  
 ---
-
+ 
 ## **Generación Automática de Páginas**
 
 ### **Generación del Archivo HTML**
