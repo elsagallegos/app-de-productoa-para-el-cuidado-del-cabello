@@ -194,7 +194,6 @@ El sistema utiliza un método en la vista para generar un archivo HTML dinámico
 - **Precio y tipo de producto**
 
 ---
-
 ## **Modificación de la Página de Servicios**
 
 ### **Iteración Dinámica de Productos**
