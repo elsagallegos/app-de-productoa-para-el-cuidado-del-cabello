@@ -194,7 +194,6 @@ El sistema utiliza un método en la vista para generar un archivo HTML dinámico
 - **Descripción detallada**
 - **Ingredientes y beneficios generados a partir de los datos ingresados**
 - **Precio y tipo de producto**
-
 ---
 ## **Modificación de la Página de Servicios**
 
