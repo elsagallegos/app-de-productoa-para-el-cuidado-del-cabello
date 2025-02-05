@@ -92,13 +92,13 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 - Es clave para la funcionalidad de recomendación personalizada basada en necesidades capilares.
 ------------------------------------------------------------------------------------------------------------------------------
 **4. CATEGORIAS**
-
-**Propósito:** Clasifica los productos en distintas categorías para facilitar la navegación y búsqueda.
+ 
+**Propósito:** Clasifica los productos en distintas categorías para facilitar la navegación y búsqueda. 
 
 **Relevancia:**
-- Permite agrupar productos similares (ej. champús, acondicionadores, tratamientos).
-- Facilita la organización del catálogo y la experiencia del usuario.
-- Mejora la gestión de inventario dentro del sistema.
+- Permite agrupar productos similares (ej. champús, acondicionadores, tratamientos). 
+- Facilita la organización del catálogo y la experiencia del usuario. 
+- Mejora la gestión de inventario dentro del sistema. 
 ------------------------------------------------------------------------------------------------------------------------------
 **5. PEDIDOS**
 
