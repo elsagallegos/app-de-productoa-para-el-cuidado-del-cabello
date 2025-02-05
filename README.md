@@ -105,9 +105,9 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 **Propósito:** Registra las órdenes de compra realizadas por los clientes dentro de la aplicación.
 
 **Relevancia:**
-- Permite hacer seguimiento de los pedidos en función de su estado (pendiente, enviado, entregado).
-- Relaciona los pedidos con los clientes que los realizaron.
-- Facilita la gestión logística y control de inventario.
+- Permite hacer seguimiento de los pedidos en función de su estado (pendiente, enviado, entregado). 
+- Relaciona los pedidos con los clientes que los realizaron. 
+- Facilita la gestión logística y control de inventario. 
 ------------------------------------------------------------------------------------------------------------------------------
 **6. DETALLE_PEDIDOS**
 
@@ -128,15 +128,15 @@ Este script define la estructura de la base de datos, asegurando que las tablas 
 El sistema está basado en el marco de trabajo Mysql y sigue el patrón de diseño Modelo-Vista-Controlador (MVC). Los componentes principales son:
 
 ### **Modelo**
-El modelo se extiende para almacenar la información relevante sobre los productos de cuidado para el cabello, tales como:
+El modelo se extiende para almacenar la información relevante sobre los productos de cuidado para el cabello, tales como: 
 
 - **Nombre del Producto**
 - **Descripción**
 - **Ingredientes**
-- **Tipo de Producto (shampoo, acondicionador, tratamiento, etc.)**
-- **Imagen del Producto**
-- **Beneficios**
-- **Precio**
+- **Tipo de Producto (shampoo, acondicionador, tratamiento, etc.)** 
+- **Imagen del Producto** 
+- **Beneficios** 
+- **Precio** 
   
 Esto permite persistir los datos en la base de datos y gestionarlos de manera eficiente.
 
