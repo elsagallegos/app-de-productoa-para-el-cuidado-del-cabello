@@ -26,13 +26,13 @@ El cuidado del cabello es un aspecto importante de la rutina diaria de muchas pe
 Sin embargo, existe una falta de plataformas digitales centralizadas que ayuden a las personas a elegir productos para el cuidado del cabello que se ajusten a sus necesidades específicas, como el tipo de cabello, problemas comunes (como sequía, caspa o caída) y preferencias personales. (productos naturales, veganos, libres de sulfatos). 
 
 Actualmente, los consumidores se enfrentan a una avalancha de productos disponibles en el mercado, con poca orientación personalizada y confiable. Aunque existen plataformas globales como Sephora y Ulta Beauty, estas a menudo carecen de herramientas interactivas que eduquen al usuario sobre la elección adecuada de producto. 
-Este problema 
+Este problema  
 En este contexto, surge la necesidad de una aplicación digital que actúe como un asistente personal para el cuidado del cabello, brindando recomendaciones personalizadas basadas en las características del usuario, así como reseñas.
- 
+  
 # ANALISIS DE REQUERIMIENTO
 La aplicación está diseñada para ofrecer recomendaciones personalizadas de productos para el cuidado del cabello, permitiendo a los usuarios registrarse de manera segura con su información básica y acceder a un catálogo organizado por categorías como champús, acondicionadores y tratamientos específicos. Cada producto incluirá detalles como nombre, descripción, precio y categoría, facilitando la búsqueda y comparación. Además, contará con un sistema de recomendaciones basado en las necesidades capilares de los usuarios, complementado por la posibilidad de valorar y comentar los productos, fomentando la interacción y el intercambio de experiencias dentro de la comunidad. Todo esto busca crear una herramienta práctica y eficiente para descubrir y evaluar productos adaptados a cada usuario.
 
-# FUNCIONALIDAD CLAVE    
+# FUNCIONALIDAD CLAVE 
 
 La funcionalidad  de la aplicacion es sobre Asesoramiento Personalizado de Productos Capilares que está diseñada para ofrecer a los usuarios una experiencia única y adaptada a sus necesidades específicas de cuidado capilar, asegurando que encuentren los productos más adecuados para su tipo de cabello y preocupaciones. Esta herramienta permite a los usuarios recibir recomendaciones precisas y efectivas para cuidar su cabello, mejorando la salud capilar a largo plazo.
 
