@@ -77,7 +77,8 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 ------------------------------------------------------------------------------------------------------------------------------
 **2. CLIENTES**
  
-**Propósito:** Registra la información de los clientes que realizan compras en la aplicación.
+**Propósito:
+** Registra la información de los clientes que realizan compras en la aplicación.
  
 **Relevancia:**
 - Almacena datos personales como nombre, correo, dirección y teléfono.  
