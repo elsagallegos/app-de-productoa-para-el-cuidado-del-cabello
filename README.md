@@ -1,15 +1,15 @@
 # ----| --  APP-HairBeauty  -- |----
 ![image](https://github.com/user-attachments/assets/0c84b0ff-beb2-4973-af49-197b51f9af76)
 
-# PROYECTO ABP
+# PROYECTO ABP  
 Repositorio de un app que vende productos para el cuidado del cabello
-
+  
 # INTRODUCCIÓN
 La creciente preocupación por el cuidado personal ha impulsado el interés en productos específicos que respondan a las necesidades únicas de cada individuo, especialmente en el ámbito del cuidado del cabello. En este contexto, surge la idea de desarrollar una aplicación innovadora que no solo facilite el descubrimiento de productos capilares, sino que también ofrezca recomendaciones personalizadas, permitiendo a los usuarios comparar, valorar y seleccionar opciones según sus requerimientos. Esta herramienta busca convertirse en un referente para quienes desean optimizar su rutina de cuidado capilar, combinando tecnología y personalización para mejorar la experiencia del usuario.
 
 # PROPOSITO
 El propósito de la app es ofrecer una variedad de productos especializados para el cuidado del cabello, brindando recomendaciones personalizadas según el tipo de cabello y las necesidades del usuario, para mejorar la salud y apariencia capilar.
-
+  
 # OBJETIVOS
 
 * **Recomendación personalizada de productos**: Sugerir productos de cuidado capilar basados en el tipo de cabello, necesidades específicas y preferencias del usuario.
@@ -55,7 +55,7 @@ Con base en los datos proporcionados por el usuario, la app utiliza un algoritmo
    La aplicación ofrece **recordatorios automáticos** para asegurar que los usuarios mantengan una rutina de cuidado capilar constante. Esto puede incluir recordatorios para la aplicación de tratamientos semanales o la compra de productos cuando se estén agotando. Los recordatorios están diseñados para ser discretos y útiles, ayudando a los usuarios a mantener su rutina sin tener que pensar en ello constantemente.
 
 8. **Sugerencias de Productos Complementarios**  
-   Además de los productos que se recomiendan basados en las necesidades específicas del usuario, la app sugiere productos complementarios que pueden mejorar los resultados del tratamiento capilar. Por ejemplo, si un usuario selecciona un shampoo hidratante, la app puede recomendar un acondicionador de la misma línea o una mascarilla capilar que trabaje de manera sinérgica para obtener resultados más rápidos y efectivos.
+   Además de los productos que se recomiendan basados en las necesidades específicas del usuario, la app sugiere productos complementarios que pueden mejorar los resultados del tratamiento capilar. Por ejemplo, si un usuario selecciona un shampoo hidratante, la app puede recomendar un acondicionador de la misma línea o una mascarilla capilar que trabaje de manera sinérgica para obtener resultados más rápidos y efectivos. 
 
 **Impacto de la Funcionalidad**  
 Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los productos capilares que realmente necesitan, eliminando la confusión sobre qué productos elegir para su tipo de cabello. La personalización y el asesoramiento directo optimizan la experiencia de compra y cuidado del cabello, ya que los usuarios pueden confiar en que están eligiendo lo mejor para su salud capilar. Además, la opción de seguimiento y las recomendaciones basadas en datos aseguran que los usuarios obtengan resultados visibles y satisfactorios a lo largo del tiempo. La evaluación personalizada del cabello y las recomendaciones de productos adaptadas hacen que la app no solo sea una plataforma de compra, sino también una **herramienta educativa** para que los usuarios aprendan a cuidar su cabello de manera efectiva. Esto eleva la experiencia general, convirtiendo a la aplicación en una solución integral para todos los aspectos del cuidado capir.la
