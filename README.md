@@ -28,6 +28,7 @@ Sin embargo, existe una falta de plataformas digitales centralizadas que ayuden 
 Actualmente, los consumidores se enfrentan a una avalancha de productos disponibles en el mercado, con poca orientación personalizada y confiable. Aunque existen plataformas globales como Sephora y Ulta Beauty, estas a menudo carecen de herramientas interactivas que eduquen al usuario sobre la elección adecuada de producto. 
 Este problema  
 En este contexto, surge la necesidad de una aplicación digital que actúe como un asistente personal para el cuidado del cabello, brindando recomendaciones personalizadas basadas en las características del usuario, así como reseñas. 
+
     
 # ANALISIS DE REQUERIMIENTO
 La aplicación está diseñada para ofrecer recomendaciones personalizadas de productos para el cuidado del cabello, permitiendo a los usuarios registrarse de manera segura con su información básica y acceder a un catálogo organizado por categorías como champús, acondicionadores y tratamientos específicos. Cada producto incluirá detalles como nombre, descripción, precio y categoría, facilitando la búsqueda y comparación. Además, contará con un sistema de recomendaciones basado en las necesidades capilares de los usuarios, complementado por la posibilidad de valorar y comentar los productos, fomentando la interacción y el intercambio de experiencias dentro de la comunidad. Todo esto busca crear una herramienta práctica y eficiente para descubrir y evaluar productos adaptados a cada usuario.
