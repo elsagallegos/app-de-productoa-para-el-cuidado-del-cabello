@@ -205,7 +205,6 @@ En la plantilla `services.html`, se utiliza un bucle dinámico para recorrer y m
 ---
 
 ## **Manejo de Errores**
-
 El sistema incluye validaciones y manejo de errores para asegurar una experiencia de usuario fluida:
 
 - **Validación de campos obligatorios en el formulario:** Se garantiza que todos los campos necesarios estén completos.
