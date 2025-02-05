@@ -44,7 +44,7 @@ Con base en los datos proporcionados por el usuario, la app utiliza un algoritmo
 
 4. **Guía de Uso Personalizada para Cada Producto**      
    Además de las recomendaciones de productos, la app proporciona una **guía personalizada de uso** para cada producto recomendado. La guía incluye detalles sobre la cantidad, la frecuencia de aplicación, y la mejor manera de combinar productos para obtener los mejores resultados. Por ejemplo, si un usuario compra un aceite para el cabello y una mascarilla hidratante, la app puede sugerir cómo alternar su uso para lograr la máxima efectividad. 
-
+ 
 5. **Seguimiento de Progreso Capilar**      
    La funcionalidad permite a los usuarios **realizar un seguimiento de su progreso capilar** a lo largo del tiempo. Los usuarios pueden registrar su experiencia con cada producto recomendado y verificar los resultados a medida que avanzan. Además, la app les permite hacer anotaciones sobre cómo se siente su cabello después de usar ciertos productos y ajustar las recomendaciones si se detecta que sus necesidades cambian con el tiempo.
 
@@ -69,7 +69,7 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 **Propósito:** Esta tabla almacena la información de los usuarios registrados en la aplicación, permitiendo gestionar autenticación y acceso.           
 
 **Relevancia:**
-- Permite a los usuarios iniciar sesión con sus credenciales.
+- Permite a los usuarios iniciar sesión con sus credenciales. 
 - Almacena datos básicos como nombre, apellido y correo electrónico.
 - Garantiza la seguridad de los datos mediante una contraseña cifrada. 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -84,9 +84,9 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 ------------------------------------------------------------------------------------------------------------------------------
 **3. PRODUCTOS**
 
-**Propósito:** Esta tabla contiene la información de los productos disponibles en la tienda, organizados por categorías.     
+**Propósito:** Esta tabla contiene la información de los productos disponibles en la tienda, organizados por categorías.      
 
-**Relevancia:**   
+**Relevancia:**    
 - Permite listar los productos con sus características (nombre, descripción, precio).           
 - Relaciona cada producto con una categoría específica.            
 - Es clave para la funcionalidad de recomendación personalizada basada en necesidades capilares.        
