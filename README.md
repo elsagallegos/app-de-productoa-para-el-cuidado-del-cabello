@@ -1,8 +1,8 @@
 # ----| --  APP-HairBeauty  -- |----   
 ![image](https://github.com/user-attachments/assets/0c84b0ff-beb2-4973-af49-197b51f9af76)  
           
-# PROYECTO ABP    
-Repositorio de un app que vende productos para el cuidado del cabello             
+# PROYECTO ABP       
+Repositorio de un app que vende productos para el cuidado del cabello                          
                     
 # INTRODUCCIÓN
 La creciente preocupación por el cuidado personal ha impulsado el interés en productos específicos que respondan a las necesidades únicas de cada individuo, especialmente en el ámbito del cuidado del cabello. En este contexto, surge la idea de desarrollar una aplicación innovadora que no solo facilite el descubrimiento de productos capilares, sino que también ofrezca recomendaciones personalizadas, permitiendo a los usuarios comparar, valorar y seleccionar opciones según sus requerimientos. Esta herramienta busca convertirse en un referente para quienes desean optimizar su rutina de cuidado capilar, combinando tecnología y personalización para mejorar la experiencia del usuario.     
@@ -12,9 +12,9 @@ El propósito de la app es ofrecer una variedad de productos especializados para
             
 # OBJETIVOS                   
              
-* **Recomendación personalizada de productos**: Sugerir productos de cuidado capilar basados en el tipo de cabello, necesidades específicas y preferencias del usuario.              
+* **Recomendación personalizada de productos**: Sugerir productos de cuidado capilar basados en el tipo de cabello, necesidades específicas y preferencias del usuario.                 
   
-* **Guías y consejos de cuidado del cabello**: Proporcionar artículos, tutoriales y consejos prácticos para mejorar la salud capilar y mantener el cabello en óptimas condiciones.    
+* **Guías y consejos de cuidado del cabello**: Proporcionar artículos, tutoriales y consejos prácticos para mejorar la salud capilar y mantener el cabello en óptimas condiciones.          
       
 * **Seguimiento del progreso capilar**: Permitir al usuario registrar y monitorear el estado de su cabello a lo largo del tiempo, con evaluaciones periódicas y sugerencias adaptadas.             
   
