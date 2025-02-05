@@ -6,10 +6,10 @@ Repositorio de un app que vende productos para el cuidado del cabello
    
 # INTRODUCCIÓN
 La creciente preocupación por el cuidado personal ha impulsado el interés en productos específicos que respondan a las necesidades únicas de cada individuo, especialmente en el ámbito del cuidado del cabello. En este contexto, surge la idea de desarrollar una aplicación innovadora que no solo facilite el descubrimiento de productos capilares, sino que también ofrezca recomendaciones personalizadas, permitiendo a los usuarios comparar, valorar y seleccionar opciones según sus requerimientos. Esta herramienta busca convertirse en un referente para quienes desean optimizar su rutina de cuidado capilar, combinando tecnología y personalización para mejorar la experiencia del usuario.   
- 
+          
 # PROPOSITO 
 El propósito de la app es ofrecer una variedad de productos especializados para el cuidado del cabello, brindando recomendaciones personalizadas según el tipo de cabello y las necesidades del usuario, para mejorar la salud y apariencia capilar.   
-     
+           
 # OBJETIVOS        
       
 * **Recomendación personalizada de productos**: Sugerir productos de cuidado capilar basados en el tipo de cabello, necesidades específicas y preferencias del usuario.
@@ -32,20 +32,20 @@ En este contexto, surge la necesidad de una aplicación digital que actúe como 
 # ANALISIS DE REQUERIMIENTO
 La aplicación está diseñada para ofrecer recomendaciones personalizadas de productos para el cuidado del cabello, permitiendo a los usuarios registrarse de manera segura con su información básica y acceder a un catálogo organizado por categorías como champús, acondicionadores y tratamientos específicos. Cada producto incluirá detalles como nombre, descripción, precio y categoría, facilitando la búsqueda y comparación. Además, contará con un sistema de recomendaciones basado en las necesidades capilares de los usuarios, complementado por la posibilidad de valorar y comentar los productos, fomentando la interacción y el intercambio de experiencias dentro de la comunidad. Todo esto busca crear una herramienta práctica y eficiente para descubrir y evaluar productos adaptados a cada usuario.
 
-# FUNCIONALIDAD CLAVE
+# FUNCIONALIDAD CLAVE    
 
 La funcionalidad  de la aplicacion es sobre Asesoramiento Personalizado de Productos Capilares que está diseñada para ofrecer a los usuarios una experiencia única y adaptada a sus necesidades específicas de cuidado capilar, asegurando que encuentren los productos más adecuados para su tipo de cabello y preocupaciones. Esta herramienta permite a los usuarios recibir recomendaciones precisas y efectivas para cuidar su cabello, mejorando la salud capilar a largo plazo.
 
-1. **Evaluación Personalizada del Cabello**  
+1. **Evaluación Personalizada del Cabello**        
    Al iniciar sesión en la aplicación, los usuarios completan un cuestionario rápido sobre sus hábitos de cuidado capilar y características de su cabello, como tipo (seco, graso, normal, rizado, lacio), necesidades (hidratación, volumen, nutrición, control de frizz, etc.), y cualquier preocupación capilar específica (caída del cabello, caspa, puntas abiertas, etc.). A partir de esta información, la app ofrece un análisis detallado del estado actual del cabello del usuario.
 
 2. **Recomendación Automática de Productos**  
 Con base en los datos proporcionados por el usuario, la app utiliza un algoritmo inteligente para recomendar productos específicos, como shampoos, acondicionadores, mascarillas, aceites y tratamientos. Cada recomendación está acompañada de una breve descripción de cómo el producto ayuda a resolver el problema capilar identificado, junto con los beneficios principales. Esto asegura que los usuarios elijan los productos más adecuados para sus necesidades, sin tener que realizar búsquedas complicadas.
 
-4. **Guía de Uso Personalizada para Cada Producto**  
+4. **Guía de Uso Personalizada para Cada Producto**      
    Además de las recomendaciones de productos, la app proporciona una **guía personalizada de uso** para cada producto recomendado. La guía incluye detalles sobre la cantidad, la frecuencia de aplicación, y la mejor manera de combinar productos para obtener los mejores resultados. Por ejemplo, si un usuario compra un aceite para el cabello y una mascarilla hidratante, la app puede sugerir cómo alternar su uso para lograr la máxima efectividad.
 
-5. **Seguimiento de Progreso Capilar**  
+5. **Seguimiento de Progreso Capilar**      
    La funcionalidad permite a los usuarios **realizar un seguimiento de su progreso capilar** a lo largo del tiempo. Los usuarios pueden registrar su experiencia con cada producto recomendado y verificar los resultados a medida que avanzan. Además, la app les permite hacer anotaciones sobre cómo se siente su cabello después de usar ciertos productos y ajustar las recomendaciones si se detecta que sus necesidades cambian con el tiempo.
 
 6. **Reseñas y Opiniones de Otros Usuarios**  
