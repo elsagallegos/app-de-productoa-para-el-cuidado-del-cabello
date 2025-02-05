@@ -1,5 +1,5 @@
 # ----| --  APP-HairBeauty  -- |----
-![image](https://github.com/user-attachments/assets/0c84b0ff-beb2-4973-af49-197b51f9af76) 
+![image](https://github.com/user-attachments/assets/0c84b0ff-beb2-4973-af49-197b51f9af76)  
  
 # PROYECTO ABP   
 Repositorio de un app que vende productos para el cuidado del cabello        
@@ -43,7 +43,7 @@ La funcionalidad  de la aplicacion es sobre Asesoramiento Personalizado de Produ
 Con base en los datos proporcionados por el usuario, la app utiliza un algoritmo inteligente para recomendar productos específicos, como shampoos, acondicionadores, mascarillas, aceites y tratamientos. Cada recomendación está acompañada de una breve descripción de cómo el producto ayuda a resolver el problema capilar identificado, junto con los beneficios principales. Esto asegura que los usuarios elijan los productos más adecuados para sus necesidades, sin tener que realizar búsquedas complicadas.
 
 4. **Guía de Uso Personalizada para Cada Producto**      
-   Además de las recomendaciones de productos, la app proporciona una **guía personalizada de uso** para cada producto recomendado. La guía incluye detalles sobre la cantidad, la frecuencia de aplicación, y la mejor manera de combinar productos para obtener los mejores resultados. Por ejemplo, si un usuario compra un aceite para el cabello y una mascarilla hidratante, la app puede sugerir cómo alternar su uso para lograr la máxima efectividad.
+   Además de las recomendaciones de productos, la app proporciona una **guía personalizada de uso** para cada producto recomendado. La guía incluye detalles sobre la cantidad, la frecuencia de aplicación, y la mejor manera de combinar productos para obtener los mejores resultados. Por ejemplo, si un usuario compra un aceite para el cabello y una mascarilla hidratante, la app puede sugerir cómo alternar su uso para lograr la máxima efectividad. 
 
 5. **Seguimiento de Progreso Capilar**      
    La funcionalidad permite a los usuarios **realizar un seguimiento de su progreso capilar** a lo largo del tiempo. Los usuarios pueden registrar su experiencia con cada producto recomendado y verificar los resultados a medida que avanzan. Además, la app les permite hacer anotaciones sobre cómo se siente su cabello después de usar ciertos productos y ajustar las recomendaciones si se detecta que sus necesidades cambian con el tiempo.
@@ -66,7 +66,7 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 # TABLAS PRINCIPALES                           
  **1. USUARIO**          
 
-**Propósito:** Esta tabla almacena la información de los usuarios registrados en la aplicación, permitiendo gestionar autenticación y acceso.         
+**Propósito:** Esta tabla almacena la información de los usuarios registrados en la aplicación, permitiendo gestionar autenticación y acceso.           
 
 **Relevancia:**
 - Permite a los usuarios iniciar sesión con sus credenciales.
@@ -86,7 +86,7 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 
 **Propósito:** Esta tabla contiene la información de los productos disponibles en la tienda, organizados por categorías.     
 
-**Relevancia:** 
+**Relevancia:**   
 - Permite listar los productos con sus características (nombre, descripción, precio).           
 - Relaciona cada producto con una categoría específica.            
 - Es clave para la funcionalidad de recomendación personalizada basada en necesidades capilares.        
@@ -111,7 +111,7 @@ Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los 
 --------------------------------------------------------------------------------------------- ---------------------------------
 **6. DETALLE_PEDIDOS**
 
-**Propósito:**
+**Propósito:**      
 Almacena los productos incluidos en cada pedido, junto con su cantidad y precio en el momento de la compra.
 
 **Relevancia:**
@@ -126,7 +126,7 @@ Este script define la estructura de la base de datos, asegurando que las tablas 
 ## **Arquitectura General**
 
 El sistema está basado en el marco de trabajo Mysql y sigue el patrón de diseño Modelo-Vista-Controlador (MVC). Los componentes principales son:
-
+    
 ### **Modelo**
 El modelo se extiende para almacenar la información relevante sobre los productos de cuidado para el cabello, tales como: 
 
@@ -138,10 +138,10 @@ El modelo se extiende para almacenar la información relevante sobre los product
 - **Beneficios** 
 - **Precio** 
   
-Esto permite persistir los datos en la base de datos y gestionarlos de manera eficiente.
+Esto permite persistir los datos en la base de datos y gestionarlos de manera eficiente. 
 
-### **Vista**
-Se crea una vista dedicada para manejar la lógica de carga de productos, generación de páginas dinámicas y redirección. Además, se incluyen vistas para la página de inicio, detalles del producto, y la página de servicios.
+### **Vista** 
+Se crea una vista dedicada para manejar la lógica de carga de productos, generación de páginas dinámicas y redirección. Además, se incluyen vistas para la página de inicio, detalles de l producto, y la página de servicios.
 
 ### **Plantillas (Templates)**
 Se utiliza el sistema de plantillas de mysql para renderizar dinámicamente las páginas de productos y actualizar la página de servicios.
