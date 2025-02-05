@@ -159,7 +159,7 @@ Los usuarios registrados pueden acceder a un formulario donde pueden agregar inf
 - **Tipo de producto (shampoo, acondicionador, etc.)**
 - **Imagen representativa (opcional)**
 - **Precio**
-
+  
 ### **Validación y Procesamiento de Datos**
 Cuando el formulario es enviado, el sistema valida los datos ingresados. Si todo es correcto:
 
@@ -185,7 +185,7 @@ El sistema utiliza un método en la vista para generar un archivo HTML dinámico
 
 - **Nombre del archivo dinámico:** El nombre del archivo HTML corresponde al nombre del producto en formato URL-friendly.
 - **Estructura del contenido:** La página se genera extendiendo la plantilla base de la aplicación (base.html) para garantizar la consistencia visual.
-  
+
 #### **Contenido dinámico:**
 - **Nombre del producto**
 - **Imagen vinculada desde el directorio estático**
