@@ -51,44 +51,44 @@ Con base en los datos proporcionados por el usuario, la app utiliza un algoritmo
 6. **Reseñas y Opiniones de Otros Usuarios**  
    La app incluye una sección de **reseñas y valoraciones de productos**, donde los usuarios pueden leer las experiencias de otras personas que han utilizado los mismos productos. Además, pueden compartir sus propias opiniones sobre la efectividad de los productos, creando una comunidad de apoyo entre los usuarios. Esto no solo ayuda a los nuevos usuarios a tomar decisiones informadas, sino que también fomenta la interacción dentro de la plataforma.
 
-7. **Alertas y Recordatorios para el Cuidado Continuo**      
-   La aplicación ofrece **recordatorios automáticos** para asegurar que los usuarios mantengan una rutina de cuidado capilar constante. Esto puede incluir recordatorios para la aplicación de tratamientos semanales o la compra de productos cuando se estén agotando. Los recordatorios están diseñados para ser discretos y útiles, ayudando a los usuarios a mantener su rutina sin tener que pensar en ello constantemente.
-     
+7. **Alertas y Recordatorios para el Cuidado Continuo**             
+   La aplicación ofrece **recordatorios automáticos** para asegurar que los usuarios mantengan una rutina de cuidado capilar constante. Esto puede incluir recordatorios para la aplicación de tratamientos semanales o la compra de productos cuando se estén agotando. Los recordatorios están diseñados para ser discretos y útiles, ayudando a los usuarios a mantener su rutina sin tener que pensar en ello constantemente.      
+             
 8. **Sugerencias de Productos Complementarios**        
-   Además de los productos que se recomiendan basados en las necesidades específicas del usuario, la app sugiere productos complementarios que pueden mejorar los resultados del tratamiento capilar. Por ejemplo, si un usuario selecciona un shampoo hidratante, la app puede recomendar un acondicionador de la misma línea o una mascarilla capilar que trabaje de manera sinérgica para obtener resultados más rápidos y efectivos. 
-        
-**Impacto de la Funcionalidad**   
-Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los productos capilares que realmente necesitan, eliminando la confusión sobre qué productos elegir para su tipo de cabello. La personalización y el asesoramiento directo optimizan la experiencia de compra y cuidado del cabello, ya que los usuarios pueden confiar en que están eligiendo lo mejor para su salud capilar. Además, la opción de seguimiento y las recomendaciones basadas en datos aseguran que los usuarios obtengan resultados visibles y satisfactorios a lo largo del tiempo. La evaluación personalizada del cabello y las recomendaciones de productos adaptadas hacen que la app no solo sea una plataforma de compra, sino también una **herramienta educativa** para que los usuarios aprendan a cuidar su cabello de manera efectiva. Esto eleva la experiencia general, convirtiendo a la aplicación en una solución integral para todos los aspectos del cuidado capir.la
-
-# MODELO RELACIONAL
+   Además de los productos que se recomiendan basados en las necesidades específicas del usuario, la app sugiere productos complementarios que pueden mejorar los resultados del tratamiento capilar. Por ejemplo, si un usuario selecciona un shampoo hidratante, la app puede recomendar un acondicionador de la misma línea o una mascarilla capilar que trabaje de manera sinérgica para obtener resultados más rápidos y efectivos.      
+                 
+**Impacto de la Funcionalidad**         
+Esta funcionalidad ayuda a los usuarios a tomar decisiones informadas sobre los productos capilares que realmente necesitan, eliminando la confusión sobre qué productos elegir para su tipo de cabello. La personalización y el asesoramiento directo optimizan la experiencia de compra y cuidado del cabello, ya que los usuarios pueden confiar en que están eligiendo lo mejor para su salud capilar. Además, la opción de seguimiento y las recomendaciones basadas en datos aseguran que los usuarios obtengan resultados visibles y satisfactorios a lo largo del tiempo. La evaluación personalizada del cabello y las recomendaciones de productos adaptadas hacen que la app no solo sea una plataforma de compra, sino también una **herramienta educativa** para que los usuarios aprendan a cuidar su cabello de manera efectiva. Esto eleva la experiencia general, convirtiendo a la aplicación en una solución integral para todos los aspectos del cuidado capir.la             
+                      
+# MODELO RELACIONAL       
 ![image](https://github.com/user-attachments/assets/bfba3634-780f-4fff-b356-52cc39afb203)
+   
+# TABLAS PRINCIPALES                     
+ **1. USUARIO**          
 
-# TABLAS PRINCIPALES 
- **1. USUARIO**
-
-**Propósito:** Esta tabla almacena la información de los usuarios registrados en la aplicación, permitiendo gestionar autenticación y acceso.
+**Propósito:** Esta tabla almacena la información de los usuarios registrados en la aplicación, permitiendo gestionar autenticación y acceso.         
 
 **Relevancia:**
 - Permite a los usuarios iniciar sesión con sus credenciales.
 - Almacena datos básicos como nombre, apellido y correo electrónico.
-- Garantiza la seguridad de los datos mediante una contraseña cifrada.
+- Garantiza la seguridad de los datos mediante una contraseña cifrada. 
 ------------------------------------------------------------------------------------------------------------------------------
 **2. CLIENTES**
-
+ 
 **Propósito:** Registra la información de los clientes que realizan compras en la aplicación.
-
+ 
 **Relevancia:**
-- Almacena datos personales como nombre, correo, dirección y teléfono.
-- Facilita la gestión de pedidos y envíos.
-- Puede ser utilizado para brindar soporte al cliente y ofrecer promociones personalizadas.
+- Almacena datos personales como nombre, correo, dirección y teléfono.  
+- Facilita la gestión de pedidos y envíos.           
+- Puede ser utilizado para brindar soporte al cliente y ofrecer promociones personalizadas. 
 ------------------------------------------------------------------------------------------------------------------------------
 **3. PRODUCTOS**
 
-**Propósito:** Esta tabla contiene la información de los productos disponibles en la tienda, organizados por categorías.
+**Propósito:** Esta tabla contiene la información de los productos disponibles en la tienda, organizados por categorías.     
 
-**Relevancia:**
+**Relevancia:** 
 - Permite listar los productos con sus características (nombre, descripción, precio).
-- Relaciona cada producto con una categoría específica.
+- Relaciona cada producto con una categoría específica.      
 - Es clave para la funcionalidad de recomendación personalizada basada en necesidades capilares.
 ------------------------------------------------------------------------------------------------------------------------------
 **4. CATEGORIAS**
