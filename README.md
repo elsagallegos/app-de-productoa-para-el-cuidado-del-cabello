@@ -38,7 +38,7 @@ La funcionalidad  de la aplicacion es sobre Asesoramiento Personalizado de Produ
 
 1. **Evaluación Personalizada del Cabello**                      
    Al iniciar sesión en la aplicación, los usuarios completan un cuestionario rápido sobre sus hábitos de cuidado capilar y características de su cabello, como tipo (seco, graso, normal, rizado, lacio), necesidades (hidratación, volumen, nutrición, control de frizz, etc.), y cualquier preocupación capilar específica (caída del cabello, caspa, puntas abiertas, etc.). A partir de esta información, la app ofrece un análisis detallado del estado actual del cabello del usuario.
-
+                   
 2. **Recomendación Automática de Productos**  
 Con base en los datos proporcionados por el usuario, la app utiliza un algoritmo inteligente para recomendar productos específicos, como shampoos, acondicionadores, mascarillas, aceites y tratamientos. Cada recomendación está acompañada de una breve descripción de cómo el producto ayuda a resolver el problema capilar identificado, junto con los beneficios principales. Esto asegura que los usuarios elijan los productos más adecuados para sus necesidades, sin tener que realizar búsquedas complicadas.
 
