@@ -15,7 +15,7 @@ El propósito de la app es ofrecer una variedad de productos especializados para
              
 * **Recomendación personalizada de productos**: Sugerir productos de cuidado capilar basados en el tipo de cabello, necesidades específicas y preferencias del usuario.                 
   
-* **Guías y consejos de cuidado del cabello**: Proporcionar artículos, tutoriales y consejos prácticos para mejorar la salud capilar y mantener el cabello en óptimas condiciones.          
+* **Guías y consejos de cuidado del cbello**: Proporcionar artículos, tutoriales y consejos prácticos para mejorar la salud capilar y mantener el cabello en óptimas condiciones.          
       
 * **Seguimiento del progreso capilar**: Permitir al usuario registrar y monitorear el estado de su cabello a lo largo del tiempo, con evaluaciones periódicas y sugerencias adaptadas.             
   
