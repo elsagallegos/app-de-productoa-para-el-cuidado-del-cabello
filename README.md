@@ -213,7 +213,7 @@ El sistema incluye validaciones y manejo de errores para asegurar una experienci
 - **Manejo de imágenes faltantes o con formatos no permitidos:** El sistema detecta imágenes no válidas y proporciona retroalimentación clara al usuario.
 - **Redirección a una página de error si ocurre un problema inesperado:** En caso de errores no previstos, el sistema dirige al usuario a una página de error con información relevante.
 
----
+--
 
 ## **Tecnologías y Herramientas Utilizadas**
 
